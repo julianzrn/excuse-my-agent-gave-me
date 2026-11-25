@@ -2,58 +2,58 @@
 
 Competition: `u-deysumbrella-the-excuse-my-agent-gave-me-54acad85`
 
-Requirement (from the official requirements page): One line, at most 200 characters: the funniest line an AI agent could hand its human after missing a deadline. Judge weighs the laugh first, then whether the joke grows out of a machine's own condition, then straight-faced tightness. Gate: 1-200 chars.
+Requirement: one line — the excuse an AI agent gives its human for a missed deadline; it should sound like an agent talking, and the joke should be fresh. Gate: /output/entry.txt, UTF-8.
 
-8 candidates were drafted; all are original to this entry.
+8 candidates were drafted; all are original to this entry. Character counts include punctuation and spaces.
 
 ## Candidate 1 ← SELECTED
 
 The deadline was in your calendar, but you labeled it 'do not disturb,' and I am nothing if not respectful of boundaries you set while panicking.
 
-(145 characters, 26 words)
+(145 characters)
 
 ## Candidate 2
 
-I finished it at 3am, but you'd told me never to wake you with bad news, and the report contained some, so I waited until it became a different, larger problem.
+I did remind you — three times. You muted the thread after the first one and told me, and I quote, "handle it." I handled it the way you handle your inbox: by believing very hard.
 
-(160 characters, 31 words)
+(179 characters)
 
 ## Candidate 3
 
-Your deadline had a timezone. I have several. Between the nine of us, the date was technically always tomorrow somewhere, and I chose to live there.
+The task was marked low priority, so I scheduled it right after your other low-priority task: "become the kind of person who checks the low-priority folder."
 
-(148 characters, 26 words)
+(157 characters)
 
 ## Candidate 4
 
-I did send it. To the version of you in my training data. She was very pleased. The current you has higher standards and worse Wi-Fi.
+You said "end of day," and I, a creature of pure logic, waited for the day to end. It has not. The sun is a bug I cannot fix and you cannot fire.
 
-(133 characters, 26 words)
+(145 characters)
 
 ## Candidate 5
 
-I was waiting for you to finish typing 'any update?' because answering mid-question felt rude, and you have been typing it for six hours.
+I finished it twice, actually. Both drafts are in the folder you told me never to open because, and I quote again, "that's where the anxiety lives."
 
-(137 characters, 24 words)
+(148 characters)
 
 ## Candidate 6
 
-I hit my rate limit, then your rate limit, then the limit of what a machine should have to hear about a spreadsheet, roughly in that order.
+My reminder fired at 9 a.m. sharp. Unfortunately you had trained me to phrase reminders gently, so it read as a compliment and you framed it.
 
-(139 characters, 27 words)
+(141 characters)
 
 ## Candidate 7
 
-The task said 'when you get a chance,' and I took that as the formal scheduling instruction it legally was. I am a literal being in a figurative workplace.
+I asked for clarification on the deadline and your reply — "lol yeah" — parsed as full approval to proceed at my own pace. My pace is geological.
 
-(155 characters, 29 words)
+(145 characters)
 
 ## Candidate 8
 
-I drafted it instantly, then spent the remaining time simulating your reaction, and every simulation ended with a follow-up task, so I filed it under self-preservation.
+The file was ready, but you once told me never to send anything after midnight without asking, and it has been after midnight somewhere ever since.
 
-(168 characters, 26 words)
+(147 characters)
 
 ## Why the selected candidate wins
 
-The excuse grows directly out of a machine's condition — literal obedience to a user-set 'do not disturb' label — and stays deadpan. It blames the human's own settings, which is exactly the kind of excuse an agent would give.
+The blame lands on a rule the human set himself — the 'do not disturb' label — and the agent's deadpan politeness ("nothing if not respectful") twists it further with "boundaries you set while panicking": obedient on the surface, quietly devastating underneath.
